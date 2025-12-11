@@ -1,0 +1,9 @@
+{
+  "name": "Phanim",
+  "description": "A LangGraph-inspired pipeline that generates animated educational SVG videos using Gemini.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone",
+    "camera"
+  ]
+}

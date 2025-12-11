@@ -1,0 +1,8 @@
+flask
+flask-cors
+moviepy
+cairosvg
+lxml
+numpy
+requests
+Pillow
